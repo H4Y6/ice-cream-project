@@ -17,9 +17,11 @@
   "bugs": {
     "url": "https://github.com/h4y6/ice-cream-project/issues"
   },
+  "dependencies": {
+    "modern-normalize": "^2.0.0"
+  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
-    "modern-normalize": "^2.0.0",
     "parcel": "^2.10.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
